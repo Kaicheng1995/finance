@@ -7,4 +7,4 @@
 * API : **`Yahoo`**
 * Database : **`SQL`**
 
-<img="https://github.com/Kaicheng1995/finance/finance.png">
+<img src="https://github.com/Kaicheng1995/finance/finance.png">
